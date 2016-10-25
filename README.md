@@ -5,7 +5,7 @@ This repository was created to help SEO and webmasters professionals to make a g
 ## Live DEMOS
 
 ### Recipes
-URL: http://vidasaudavelfit.com/bolo-de-chocolate-com-morango-sem-gluten-e-lactose/
-Test:  https://goo.gl/k2EGAz
+* URL: http://vidasaudavelfit.com/bolo-de-chocolate-com-morango-sem-gluten-e-lactose/
+* Test:  https://goo.gl/k2EGAz
 
 
