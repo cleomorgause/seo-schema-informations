@@ -1,0 +1,48 @@
+{
+   "@context":"http://schema.org/",
+   "@type":"Recipe",
+   "name":"Bolo de chocolate com morango sem glúten e lactose",
+   "image":"http://vidasaudavelfit.com/wp-content/uploads/2016/10/bolo-de-chocolate-com-morango-sem-glúten-e-lactose-e1477412744962.jpg",
+   "author":{
+      "@type":"Person",
+      "name":"Cleo Morgause"
+   },
+   "datePublished":"2016-10-25",
+   "description":"Deliciosa receita de bolo de chocolate com morango sem glúten e sem lactose, feito com farinha de amêndoas e açúcar de coco. Um bolo bem light com apenas 310 calorias por fatia.",
+   "aggregateRating":{
+      "@type":"AggregateRating",
+      "ratingValue":"5",
+      "reviewCount":"1"
+   },
+   "prepTime":"PT0H20M",
+   "cookTime":"PT0H50M",
+   "totalTime":"PT1H10M",
+   "recipeYield":"12 porções",
+   "nutrition":{
+      "@type":"NutritionInformation",
+      "servingSize":"1 fatia",
+      "calories":"310kcal",
+      "fatContent":"36g",
+      "carbohydrateContent":"23g",
+      "proteinContent":"8g"
+   },
+   "recipeIngredient":[
+      "3 ovos grandes",
+      "1 xícara de chá de açucar de coco (pode usar o mascavo se preferir)",
+      "1 colher de sopa de semente de chia",
+      "1/2 xícara chá de óleo de coco",
+      "1 xícara chá de farinha de amêndoas",
+      "3/4 xícara chá de farinha de arroz",
+      "1/2 xícara chá de coco ralado (opcional)",
+      "3/4 xícara chá de cacau em pó",
+      "180ml de leite de amêndoas (ou água quente na mesma quantidade)",
+      "1 colher de sopa de fermento em pó",
+      "200 ml de leite de améndoas",
+      "200grs de chocolate 70% cacau ou meio amargo",
+      "Açúcar de coco a gosto",
+      "1 colher de sopa de óleo de coco",
+      "1 colher de sopa de farinha de arroz",
+      "Morangos picados a gosto"
+   ],
+   "recipeInstructions":"\n1. Na vasilha, misture os ingredientes secos: a semente de chia, as farinhas, o coco ralado, o cacau em pó e o fermento. Deixe reservado.\n2. Em uma tigela pequena, separe as claras e as gemas dos 3 ovos. Adicione as gemas na tigela da batedeira ou mixer e, juntamente com o óleo de coco e o açúcar. Bata por 3 a 4 minutos ou até a mistura ficar bem homogênea.\n3. Bata as claras em neve e adicone à massa, mexendo delicadamente com o auxílio de um fuê.\n4. Unte e enfarinhe a forma de bolo e despeje a massa sobre ela. Leve ao forno pre aquecido a 180o de 40 a 45 minutos.\n5. Retire do forno e só  desenforme o bolo em uma travessa redonda depois de frio."
+}
